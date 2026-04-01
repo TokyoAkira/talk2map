@@ -27,10 +27,6 @@ with pins, routes, knowledge cards, and more.
 
 ![Pearl Harbor](assets/5.jpg)
 
-## Built with
-
-React · MapLibre GL · Custom WebGL · AI (LLM)
-
 ## Contact
 
 akira991029@gmail.com
